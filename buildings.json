@@ -1,0 +1,6 @@
+[
+ {"id":"casa_baja","width":10,"depth":10,"floors":1,"floorHeight":4,"wall":"wall_stucco","roof":"roof_flat","weight":4},
+ {"id":"tienda","width":14,"depth":12,"floors":2,"floorHeight":4,"wall":"wall_brick","roof":"roof_dark","weight":3},
+ {"id":"edificio_medio","width":16,"depth":16,"floors":4,"floorHeight":4,"wall":"wall_concrete","roof":"roof_dark","weight":2},
+ {"id":"torre","width":14,"depth":14,"floors":8,"floorHeight":4,"wall":"wall_sand","roof":"roof_flat","weight":1}
+]

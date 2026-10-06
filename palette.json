@@ -1,0 +1,13 @@
+[
+ {"id":"asphalt","block":"minecraft:black_concrete"},
+ {"id":"sidewalk","block":"minecraft:smooth_stone"},
+ {"id":"wall_stucco","block":"minecraft:white_terracotta"},
+ {"id":"wall_brick","block":"minecraft:bricks"},
+ {"id":"wall_concrete","block":"minecraft:light_gray_concrete"},
+ {"id":"wall_sand","block":"minecraft:smooth_sandstone"},
+ {"id":"window","block":"minecraft:glass"},
+ {"id":"roof_flat","block":"minecraft:smooth_stone"},
+ {"id":"roof_dark","block":"minecraft:polished_deepslate"},
+ {"id":"lamp_post","block":"minecraft:iron_bars"},
+ {"id":"lamp","block":"minecraft:sea_lantern"}
+]

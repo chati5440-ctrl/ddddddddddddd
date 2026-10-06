@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"losbloques","version":"0.1.0","name":"Los Bloques","description":"Ciudad de bloques con aire de Los Santos. Comando /ciudad.","authors":["(tu nombre)"],"license":"MIT","environment":"*","entrypoints":{"main":["gg.losbloques.LosBloques"]},"depends":{"fabricloader":">=0.16.0","minecraft":"~1.21.1","java":">=21","fabric-api":"*"}}
